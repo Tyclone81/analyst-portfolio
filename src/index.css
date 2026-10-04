@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --color-labDark: #071313;
+  --color-labMint: #5eead4;
+  --color-labSurface: #112d2d;
+}
